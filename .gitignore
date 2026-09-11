@@ -37,3 +37,20 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Java / Maven
+**/target/
+**/.idea/
+*.iml
+*.class
+
+# Python
+**/venv/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
